@@ -11,9 +11,9 @@ In this infographic, the overarching question that I will be answering is where 
         │   Scatterplot showing population and per-capita emissions in 2021: plot-2.png
         │   Column chart showing sources of 2021 emissions in selected countries: plot-3.png
         │   Map of world that highlights selected countries: world-map.png
+    │   README.md
     │   .Rmd
     │   .Rproj
-    │   README.md
 
 ## Data sets
 1. International Energy Agency (IEA) methane emission data 2022 (country-level estimates for year 2021)
