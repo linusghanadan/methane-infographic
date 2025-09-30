@@ -3,10 +3,10 @@
 ## Purpose
 This infographic answers the overarching question of where anthropogenic (human-caused) methane emissions came from in 2021, including the highest polluting countries and activities.
 
-## Preview of infographic
+## Preview of Infographic
 ![methane-infographic](https://github.com/linusghanadan/methane-infographic/assets/141390191/01403098-e790-4fc8-b22a-7526ebe43d3f)
 
-## Repository contents
+## Repository Contents
     methane-infographic
     └───images
         │   Completed inforgraphic: methane-infographic.png
@@ -18,13 +18,13 @@ This infographic answers the overarching question of where anthropogenic (human-
     │   .Rmd
     │   .Rproj
 
-## Data sets
+## Datasets
 1. International Energy Agency (IEA) methane emission data 2022 (country-level estimates for year 2021)
 2. World Bank population data
 
-## Data references
+## Data References
 1. International Energy Agency (IEA). 2022a. “Methane Tracker Database.” https://www.iea.org/data-and-statistics/data-product/methane-tracker-database.
 2. The World Bank. n.d. “Population, Total.” https://data.worldbank.org/indicator/SP.POP.TOTL.
 
-## Notes on accessing data
+## Data Access Notes
 Data used in this analysis was stored locally and included in repositiory .gitignore file. Use data references to access the original data.
