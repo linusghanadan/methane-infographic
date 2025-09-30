@@ -1,7 +1,7 @@
 # Creating an infographic on anthropogenic methane emissions in 2021
 
 ## Purpose
-In this infographic, the overarching question that I will be answering is where anthropogenic methane emissions came from in 2021. This includes the countries where emissions are occurring most frequently and also the human activities (e.g., energy production, agriculture, etc.) that contribute the most to these emissions.
+This infographic answers the overarching question of where anthropogenic (human-caused) methane emissions came from in 2021, including the highest polluting countries (overall and per-capita) and activities (e.g., energy production, agriculture, etc.).
 
 ## Preview of infographic
 ![methane-infographic](https://github.com/linusghanadan/methane-infographic/assets/141390191/01403098-e790-4fc8-b22a-7526ebe43d3f)
