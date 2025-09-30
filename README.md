@@ -1,4 +1,4 @@
-# Creating an infographic on anthropogenic methane emissions in 2021
+# Infographic on Methane Emissions
 
 ## Purpose
 This infographic answers the overarching question of where anthropogenic (human-caused) methane emissions came from in 2021, including the highest polluting countries (overall and per-capita) and activities (e.g., energy production, agriculture, etc.).
