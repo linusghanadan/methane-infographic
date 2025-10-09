@@ -28,3 +28,6 @@ This infographic answers the overarching question of where anthropogenic (human-
 
 ## Data Access Notes
 Data used in this analysis was stored locally and included in repositiory .gitignore file. Use data references to access the original data.
+
+## [Link to Blog (includes R code, code output, and written analysis)](https://linusghanadan.github.io/blog/2024-3-12-post/)
+
