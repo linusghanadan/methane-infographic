@@ -3,7 +3,7 @@
 ## Purpose
 This infographic answers the overarching question of where anthropogenic (human-caused) methane emissions came from in 2021, including the highest polluting countries and activities.
 
-## Preview of Infographic
+## Final Infographic
 ![methane-infographic](https://github.com/linusghanadan/methane-infographic/assets/141390191/01403098-e790-4fc8-b22a-7526ebe43d3f)
 
 ## [Link to Blog (includes R code, code output, and written analysis)](https://linusghanadan.github.io/blog/2024-3-12-post/)
